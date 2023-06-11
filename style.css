@@ -13,3 +13,18 @@ a,
 ul li a {
   color: #fff;
 }
+
+i{
+  font-size: 38px;
+}
+
+li i {
+  font-size: 13px;
+  display: inline;
+}
+
+.redes{
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+}
