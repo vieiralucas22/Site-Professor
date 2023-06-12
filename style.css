@@ -70,3 +70,8 @@ h5 {
   column-gap: 10px;
   padding-left: 20px;
 }
+
+.editar{
+  justify-content: center;
+  align-items: center;
+}
